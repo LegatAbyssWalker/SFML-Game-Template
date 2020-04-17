@@ -11,6 +11,6 @@
 * Kiroma » https://github.com/kiroma
 
 # Media
-* Youtube Channel                » www.YouTube.com/LegitMegaWalls-52
+* Youtube Channel                » https://youtube.com/c/LegatAbyssWalker
 * Youtube Video of Creation      » https://youtu.be/O4Q30m7Kq48
 * Github                         » https://github.com/LegatLastAbyssWalker
